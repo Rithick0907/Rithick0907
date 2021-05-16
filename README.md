@@ -1,13 +1,4 @@
 ### Hi there 👋 I'm Rithick
-
-I'm an M.Sc [Information Technology] Student at College Of Enginnering(CEG), Anna University.
-
-###Connect with me:
-[1.1]: http://i.imgur.com/tXSoThF.png
-[2.1]: https://image.flaticon.com/icons/png/512/61/61109.png
-
-[1]: http://www.twitter.com/carlsednaoui
-[2]: https://www.linkedin.com/in/rithick-babu-592081148
 <!--
 **RithickB/RithickB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
