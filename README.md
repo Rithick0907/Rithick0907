@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **react js**
 
-- 📫 How to reach me **rithick0907@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rithick0907" target="blank"><img align="center" src="https://camo.githubusercontent.com/c58e07fb34a45fd051183258b5860608dd86ac98dd151d0522e0575966082b88/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f747769747465722e737667" alt="rithick0907" height="30" width="40" /></a>
@@ -37,5 +35,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rithickb&show_icons=true&locale=en&layout=compact" alt="rithickb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rithickb&show_icons=true&locale=en" alt="rithickb" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rithickb&" alt="rithickb" /></p>
