@@ -36,6 +36,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rithick0907&show_icons=true&locale=en&layout=compact" alt="rithickb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rithick0907&" alt="rithick0907" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rithick0907&show_icons=true&locale=en" alt="rithickb" /></p>
