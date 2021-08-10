@@ -7,9 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/rithick0907" target="blank"><img src="https://img.shields.io/twitter/follow/rithick0907?logo=twitter&style=for-the-badge" alt="rithick0907" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **react js**
+- 💬 Ask me about **HTML, CSS, React js, Redux, Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
